@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'VMLab2webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E6307BC611FB469BBBC82192C92384D0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BEB0C72D9864FD194560799CB5CCD7F }}
           package: .
